@@ -1,0 +1,6 @@
+$http_get(url ..,server.., get)
+
+$http_post(url ..,server.., post)    
+
+$http_put(url ..,server.., put)
+

@@ -1,0 +1,342 @@
+{
+    "ace": {
+        "search": {
+            "@backwards": "false",
+            "@highlightmatches": "true",
+            "@matchcase": "false",
+            "@preservecase": "false",
+            "@regex": "false",
+            "@wholeword": "false",
+            "@wraparound": "true"
+        }
+    },
+    "breakpoints": {
+        "json()": []
+    },
+    "console": {
+        "@expanded": false,
+        "@height": 431,
+        "@maximized": "false",
+        "json()": {
+            "meta": {
+                "accessList": [
+                    "searchResults",
+                    "tab3"
+                ]
+            },
+            "name": "pane1",
+            "nodes": [
+                {
+                    "type": "tab",
+                    "name": "tab3",
+                    "path": "",
+                    "className": [
+                        "tab0",
+                        "tab3"
+                    ],
+                    "document": {
+                        "filter": true,
+                        "title": "Terminal",
+                        "terminal": {
+                            "id": "devel_677",
+                            "cwd": "",
+                            "width": 0,
+                            "height": 0,
+                            "scrollTop": -1
+                        },
+                        "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+                        "meta": {
+                            "timestamp": 1472128275760
+                        },
+                        "changed": false
+                    },
+                    "editorType": "terminal",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "searchResults",
+                    "path": "/.c9/searchresults",
+                    "className": [
+                        "searchResults",
+                        "changed"
+                    ],
+                    "document": {
+                        "changed": true,
+                        "meta": {
+                            "searchResults": true,
+                            "ignoreSave": true,
+                            "newfile": true,
+                            "timestamp": 1473689278366
+                        },
+                        "filter": true,
+                        "title": "Search Results",
+                        "tooltip": "/.c9/searchresults",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": true
+                }
+            ],
+            "skin": "editor_tab",
+            "skinset": "default",
+            "type": "pane"
+        }
+    },
+    "experiments": {
+        "@@enabled": true,
+        "@autosave": 0,
+        "@flat-dark": 0,
+        "@git": 1,
+        "@go_completion": 0,
+        "@plugin-manager": 1,
+        "@plugins": 0,
+        "@sdk": 0,
+        "@test": 0
+    },
+    "ext": {
+        "counters": {
+            "@ace": 2,
+            "@acestatus": 2,
+            "@datagrid": 1,
+            "@divider": 5,
+            "@document": 7,
+            "@form": 6,
+            "@immediate": 1,
+            "@list": 1,
+            "@menu": 9,
+            "@menuitem": 22,
+            "@pane": 2,
+            "@preferences": 1,
+            "@session": 6,
+            "@tab": 3,
+            "@tree": 2,
+            "@undoManager": 7,
+            "@welcome": 1
+        }
+    },
+    "findinfiles": {
+        "@console": "true",
+        "@matchcase": "false",
+        "@regex": "false",
+        "@scope": "selection",
+        "@wholeword": "false"
+    },
+    "installer": {
+        "json()": {
+            "Cloud9 IDE": {},
+            "c9.ide.find": {}
+        }
+    },
+    "menus": {
+        "@minimized": false
+    },
+    "nak": {
+        "@installed": true
+    },
+    "openfiles": {
+        "@hidetree": false
+    },
+    "panecycle": {
+        "json()": [
+            "tab15",
+            "searchResults"
+        ]
+    },
+    "panels": {
+        "@active-left": "tree",
+        "@width-left": 515,
+        "commands.panel": {
+            "@enabled": "true",
+            "@name": "commands.panel"
+        },
+        "debugger": {
+            "@enabled": "true",
+            "@name": "debugger"
+        },
+        "navigate": {
+            "@enabled": "true",
+            "@name": "navigate"
+        },
+        "outline": {
+            "@enabled": "true",
+            "@name": "outline"
+        },
+        "scm": {
+            "@enabled": "true",
+            "@name": "scm"
+        },
+        "tree": {
+            "@enabled": "true",
+            "@name": "tree"
+        }
+    },
+    "projecttree": {
+        "@scrollpos": -10,
+        "@showfs": true,
+        "expanded": {
+            "json()": [
+                "/",
+                "~",
+                "/node_modules/ace",
+                "/node_modules/ace/lib",
+                "/node_modules/ace/lib/ace",
+                "/node_modules/ace/lib/ace/mode",
+                "/node_modules"
+            ]
+        },
+        "favorites": {
+            "json()": []
+        }
+    },
+    "recentfiles": {
+        "json()": []
+    },
+    "search-history": {
+        "searchfiles": {
+            "json()": [
+                "please fix or add",
+                "snippets",
+                "html",
+                "javascript",
+                "apache_conf",
+                "abc",
+                "abc.js",
+                "JavaScript",
+                "YAML",
+                "modelist",
+                "function"
+            ]
+        }
+    },
+    "tabs": {
+        "json()": {
+            "focus": "/LocalTest/test.fitc",
+            "meta": {
+                "accessList": [
+                    "tab15",
+                    "tab14",
+                    "tab1",
+                    "tab0"
+                ]
+            },
+            "name": "pane0",
+            "nodes": [
+                {
+                    "type": "tab",
+                    "name": "tab14",
+                    "path": "/LocalTest/test.fitrun",
+                    "className": [
+                        "tab14",
+                        "changed"
+                    ],
+                    "document": {
+                        "changed": true,
+                        "meta": {
+                            "timestamp": 1473078936459
+                        },
+                        "filter": true,
+                        "title": "test.fitrun",
+                        "tooltip": "/LocalTest/test.fitrun",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab15",
+                    "path": "/LocalTest/test.fitc",
+                    "className": [
+                        "tab15",
+                        "changed",
+                        "focus"
+                    ],
+                    "document": {
+                        "changed": true,
+                        "meta": {
+                            "timestamp": 1473078943225
+                        },
+                        "filter": true,
+                        "title": "test.fitc",
+                        "tooltip": "/LocalTest/test.fitc",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": true
+                },
+                {
+                    "type": "tab",
+                    "name": "tab0",
+                    "path": "/node_modules/ace/lib/ace/mode/fitrun_highlight_rules.js",
+                    "className": [
+                        "tab0",
+                        "changed"
+                    ],
+                    "document": {
+                        "changed": true,
+                        "filter": true,
+                        "title": "fitrun_highlight_rules.js",
+                        "tooltip": "/node_modules/ace/lib/ace/mode/fitrun_highlight_rules.js",
+                        "ace": {
+                            "folds": [],
+                            "scrolltop": 0,
+                            "scrollleft": 0,
+                            "selection": {
+                                "start": {
+                                    "row": 18,
+                                    "column": 27
+                                },
+                                "end": {
+                                    "row": 18,
+                                    "column": 36
+                                },
+                                "isBackwards": true
+                            },
+                            "options": {
+                                "guessTabSize": true,
+                                "useWrapMode": false,
+                                "wrapToView": true
+                            },
+                            "firstLineState": 0
+                        },
+                        "meta": {
+                            "timestamp": 1473079782922
+                        }
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab1",
+                    "path": "/node_modules/ace/lib/ace/mode/fitrun.js",
+                    "className": [
+                        "tab1",
+                        "changed"
+                    ],
+                    "document": {
+                        "changed": true,
+                        "meta": {
+                            "timestamp": 1473079154936
+                        },
+                        "filter": true,
+                        "title": "fitrun.js",
+                        "tooltip": "/node_modules/ace/lib/ace/mode/fitrun.js",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": false
+                }
+            ],
+            "skin": "editor_tab",
+            "skinset": "default",
+            "type": "pane"
+        }
+    },
+    "tree_selection": {
+        "json()": [
+            "/node_modules/ace"
+        ]
+    }
+}
